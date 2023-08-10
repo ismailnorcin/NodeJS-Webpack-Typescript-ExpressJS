@@ -4,7 +4,7 @@ NodeJS-Webpack-Typescript-ExpressJS birlikte kullanımı
 Bazen Node.js ile birlikte temel teknolojileri bir arada kullanmak bazen zor olabiliyor. Olabildiğince basit şekilde; Node.js ile birlikte Webpack, Typescript, ExpressJS ve diğer npm paket bağımlılıklarını projede bulabilirsiniz.
 
 Projeyi ayağa kaldırmak için;
-<pre>https://github.com/ismailnorcin/NodeJS-Webpack-Typescript-ExpressJS.git</pre>
+<pre>git clone https://github.com/ismailnorcin/NodeJS-Webpack-Typescript-ExpressJS.git</pre>
 <pre>npm install</pre>
 <pre>.env > PORT değerini değiştirebilirsiniz</pre>
 
